@@ -17,7 +17,7 @@ public class Main {
         Hero hero = new Hero();
 
         hero.set(walked);
-        hero.move("Дом", "Политех");
+        hero.move("Дом", "Политх");
 
         hero.set(horse);
         hero.move("Конюшня", "Ипподрн");
