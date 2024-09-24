@@ -17,13 +17,13 @@ public class Main {
         Hero hero = new Hero();
 
         hero.set(walked);
-        hero.move("Дом", "Политх");
+        hero.move("Дом", "По");
 
         hero.set(horse);
-        hero.move("Конюшня", "Ипподрн");
+        hero.move("Конюшня", "Парк");
 
         hero.set(plane);
-        hero.move("МОСКВА", "САНКТ_ПЕТЕРБУРГ");
+        hero.move("МОСКВА", "САНКТ-ПЕТЕРБУРГ");
 
     }
 }
