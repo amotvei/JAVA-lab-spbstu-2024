@@ -20,7 +20,7 @@ public class Main {
         hero.move("Дом", "По");
 
         hero.set(horse);
-        hero.move("Конюшня", "Парк");
+        hero.move("Конюшня", "Пар");
 
         hero.set(plane);
         hero.move("МОСКВА", "САНКТ-ПЕТЕРБУРГ");
